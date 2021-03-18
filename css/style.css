@@ -15,15 +15,21 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+    background-color: #eee!important;
 }
-
-#page-loading-blocs-notifaction {
+a:focus {
+    background-color: #eee!important;
+}
+    #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
     bottom: 0;
     width: 100%;
     z-index: 100000;
     background: #FFFFFF url("../img/pageload-spinner.gif") no-repeat center center;
+}
+button:focus {
+    border: 2px solid #66afe9;
 }
 
 .bloc {
