@@ -1,4 +1,4 @@
-html {
+    html {
     font-family : sans-serif;
     }
     body {
@@ -1724,12 +1724,12 @@ html {
     max-width : 100%;
     }
     }
-    @media only screen and (max-width) and (max-width) and (orientation: landscape) {
+    @media only screen and (orientation: landscape) {
     .b-parallax {
     background-attachment : scroll;
     }
     }
-    @media only screen and (max-width) and (max-width) {
+    @media only screen {
     .b-parallax {
     background-attachment : scroll;
     }
@@ -3756,12 +3756,12 @@ html {
     max-width : 100%;
     }
     }
-    @media only screen and (max-width) and (max-width) and (orientation: landscape) {
+    @media only screen  and (orientation: landscape) {
     .b-parallax {
     background-attachment : scroll;
     }
     }
-    @media only screen and (max-width) and (max-width) {
+    @media only screen  {
     .b-parallax {
     background-attachment : scroll;
     }
@@ -5748,12 +5748,12 @@ html {
     max-width : 100%;
     }
     }
-    @media only screen and (max-width) and (max-width) and (orientation: landscape) {
+    @media only screen  and (orientation: landscape) {
     .b-parallax {
     background-attachment : scroll;
     }
     }
-    @media only screen and (max-width) and (max-width) {
+    @media only screen  {
     .b-parallax {
     background-attachment : scroll;
     }
@@ -7780,12 +7780,12 @@ html {
     max-width : 100%;
     }
     }
-    @media only screen and (max-width) and (max-width) and (orientation: landscape) {
+    @media only screen  and (orientation: landscape) {
     .b-parallax {
     background-attachment : scroll;
     }
     }
-    @media only screen and (max-width) and (max-width) {
+    @media only screen  {
     .b-parallax {
     background-attachment : scroll;
     }
@@ -9772,12 +9772,12 @@ html {
     max-width : 100%;
     }
     }
-    @media only screen and (max-width) and (max-width) and (orientation: landscape) {
+    @media only screen  and (orientation: landscape) {
     .b-parallax {
     background-attachment : scroll;
     }
     }
-    @media only screen and (max-width) and (max-width) {
+    @media only screen  {
     .b-parallax {
     background-attachment : scroll;
     }
@@ -11865,12 +11865,12 @@ html {
     max-width : 100%;
     }
     }
-    @media only screen and (max-width) and (max-width) and (orientation: landscape) {
+    @media only screen  and (orientation: landscape) {
     .b-parallax {
     background-attachment : scroll;
     }
     }
-    @media only screen and (max-width) and (max-width) {
+    @media only screen  {
     .b-parallax {
     background-attachment : scroll;
     }
@@ -12095,13 +12095,11 @@ html {
     content : "\f2cd";
     }
     @font-face {
-    {
     font-family : et-line;
     src : url(https://natthanguilhot.github.io/natthanguilhot-GUILHOTNATTHAN_4_01032020/fonts/et-line.eot);
     src : url(https://natthanguilhot.github.io/natthanguilhot-GUILHOTNATTHAN_4_01032020/fonts/et-line.eot?#iefix) format('embedded-opentype'), url(https://natthanguilhot.github.io/natthanguilhot-GUILHOTNATTHAN_4_01032020/fonts/et-line.woff) format('woff'), url(https://natthanguilhot.github.io/natthanguilhot-GUILHOTNATTHAN_4_01032020/fonts/et-line.ttf) format('truetype'), url(https://natthanguilhot.github.io/natthanguilhot-GUILHOTNATTHAN_4_01032020/fonts/et-line.svg#et-line) format('svg');
     font-weight : 400;
     font-style : normal;
-    }
     }
     .et-icon-browser, .et-icon-dribbble, .et-icon-edit, .et-icon-facebook, .et-icon-global, .et-icon-mobile, .et-icon-presentation, .et-icon-target, .et-icon-twitter {
     font-family : et-line;
